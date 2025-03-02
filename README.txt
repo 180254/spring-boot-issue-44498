@@ -1,4 +1,4 @@
-Related issue: https://github.com/spring-projects/spring-boot/issues/44498
+Related issue: https://github.com/spring-projects/spring-framework/issues/34522
 
 When using v3.4.3 (pom.xml), the application does not work:
 $ docker build -t spring-boot-issue-44498-pom:latest -f pom.Dockerfile .
